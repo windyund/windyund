@@ -97,6 +97,10 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/windyund/windyund/output/github-contribution-grid-snake.svg">
 </picture>
 
+## How to reach me
+- Email: fengnian9527@hotmail.com
+- Telegram: fengnian9527
+- 微信公众号: 丰年编程随记
 
 ## Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->  
