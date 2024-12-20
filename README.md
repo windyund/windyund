@@ -83,10 +83,11 @@
 
 ## Github Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=windyund&show_icons=true&count_private=true&hide_border=true" align="center" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=windyund" align="center" />
-<div align="center">
+<div style="display: flex; justify-content: space-between;">
+    <img src="https://github-readme-stats.vercel.app/api?username=windyund&show_icons=true&count_private=true&hide_border=true" style="width: 50%;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=windyund" style="width: 50%;" />
+</div>
+
 <br/>  
 
 ## Activities
