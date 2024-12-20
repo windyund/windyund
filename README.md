@@ -99,7 +99,12 @@
 
 
 ## Recent Blog Posts
-<!-- BLOG-POST-LIST:START -->  
+<!-- BLOG-POST-LIST:START -->
+- [我们这代人存不下钱的原因是什么？ - 知乎](https://www.peterjxl.com/404-content/What-is-the-reason-our-generation-can-not-save/)
+- [互联网越来越孤岛化了](https://www.peterjxl.com/Internet/isolated/)
+- [2024 年 11 月记](https://www.peterjxl.com/2024/11/)
+- [创意工坊预览图被打码解决措施](https://www.peterjxl.com/steam/workshop-mosaic/)
+- [创意工坊被锁国区解决措施](https://www.peterjxl.com/steam/workshop/Lock-area/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
