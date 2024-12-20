@@ -86,6 +86,10 @@
 
 <br/>  
 
+## Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=windyund)
+
+<br/>  
 
 ## Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->  
