@@ -84,7 +84,7 @@
 ## Github Stats
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="https://github-readme-stats.vercel.app/api?username=windyund&show_icons=true&count_private=true&hide_border=true" style="width: 50%;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=windyund" style="width: 50%;" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=windyund" style="width: 40%;" />
 </div>
 
