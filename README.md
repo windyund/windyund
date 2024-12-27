@@ -1,5 +1,5 @@
 
-### <div align="center">Hi, I'm FengNian, a full-time full-stack freelance developer from China 👨‍💻</div>
+### <div align="center">Hi, I'm FengNian, a full-stack developer from China 👨‍💻</div>
 
 
 - ☕ Six years of experience in Java development: Proficient in concurrent programming, multithreading principles, and system performance optimization. Experienced in database index optimization, JVM tuning, and skilled in microservice architecture, high availability, high concurrency, caching design, circuit breakers, rate limiting, and distributed locks. Led new projects from the ground up, including architecture design, technology stack selection, project planning, and full-stack development.
