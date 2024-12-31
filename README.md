@@ -104,11 +104,11 @@
 
 ## Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [2024 年度总结](https://www.peterjxl.com/2024/summary/)
 - [2024 年 12 月记](https://www.peterjxl.com/2024/12/)
 - [【三国杀 OL 武将攻略】神孙权](https://www.peterjxl.com/sanguosha/Shen-Sun-Quan/)
 - [我们这代人存不下钱的原因是什么？ - 知乎](https://www.peterjxl.com/404-content/What-is-the-reason-our-generation-can-not-save/)
 - [互联网越来越孤岛化了](https://www.peterjxl.com/Internet/isolated/)
-- [2024 年 11 月记](https://www.peterjxl.com/2024/11/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
