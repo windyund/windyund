@@ -104,11 +104,11 @@
 
 ## Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [不可不知的浏览器使用技巧](https://www.peterjxl.com/Browser/tricks/)
+- [最全面的浏览器教程](https://www.peterjxl.com/Browser/introduction/)
 - [网络黑社会是怎么榨干《求生之路》最后一丝价值的？](https://www.peterjxl.com/L4D2/DDOS/)
 - [2024 年度总结](https://www.peterjxl.com/2024/summary/)
 - [2024 年 12 月记](https://www.peterjxl.com/2024/12/)
-- [【三国杀 OL 武将攻略】神孙权](https://www.peterjxl.com/sanguosha/Shen-Sun-Quan/)
-- [我们这代人存不下钱的原因是什么？ - 知乎](https://www.peterjxl.com/404-content/What-is-the-reason-our-generation-can-not-save/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
