@@ -104,11 +104,11 @@
 
 ## Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [让你搜索效率翻倍的技巧](https://www.peterjxl.com/Browser/search-engine-tips/)
 - [谁是最好用的搜索引擎？别再用百度了！](https://www.peterjxl.com/Browser/search-engine/)
 - [谁是最好用的浏览器？](https://www.peterjxl.com/Browser/recommend/)
 - [不可不知的浏览器使用技巧](https://www.peterjxl.com/Browser/tricks/)
 - [最全面的浏览器教程](https://www.peterjxl.com/Browser/introduction/)
-- [网络黑社会是怎么榨干《求生之路》最后一丝价值的？](https://www.peterjxl.com/L4D2/DDOS/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
