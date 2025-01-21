@@ -104,11 +104,11 @@
 
 ## Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [装了 Chrome 不用这个扩展，还不如去用 IE ！](https://www.peterjxl.com/Browser/Tampermonkey/)
+- [Chrome 扩展全指南（浏览器必备）](https://www.peterjxl.com/Browser/extensions/)
+- [超长干货，十倍提升你的搜索能力](https://www.peterjxl.com/Browser/search-quotient/)
 - [让你搜索效率翻倍的技巧](https://www.peterjxl.com/Browser/search-engine-tips/)
 - [谁是最好用的搜索引擎？别再用百度了！](https://www.peterjxl.com/Browser/search-engine/)
-- [谁是最好用的浏览器？](https://www.peterjxl.com/Browser/recommend/)
-- [不可不知的浏览器使用技巧](https://www.peterjxl.com/Browser/tricks/)
-- [最全面的浏览器教程](https://www.peterjxl.com/Browser/introduction/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
