@@ -104,11 +104,11 @@
 
 ## Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [实在受不了摇一摇广告了！（含六种去广告方法）](https://www.peterjxl.com/phone/skip-ad/)
 - [谷歌逐步淘汰 V2 插件，广告拦截不能用了？](https://www.peterjxl.com/Browser/MV3/)
 - [装了 Chrome 不用这个扩展，还不如去用 IE ！](https://www.peterjxl.com/Browser/Tampermonkey/)
 - [Chrome 扩展全指南（浏览器必备）](https://www.peterjxl.com/Browser/extensions/)
 - [超长干货，十倍提升你的搜索能力](https://www.peterjxl.com/Browser/search-quotient/)
+- [让你搜索效率翻倍的技巧](https://www.peterjxl.com/Browser/search-engine-tips/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
