@@ -104,11 +104,11 @@
 
 ## Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [扩展推荐篇-前言](https://www.peterjxl.com/Browser/Extensions-recommend/)
 - [2025 年 1 月记](https://www.peterjxl.com/2025/1/)
 - [iPhone 通过 Quantumult X 去广告教程](https://www.peterjxl.com/phone/skip-ad-Quantumult-X/)
 - [实在受不了摇一摇广告了！分享六种去广告方法](https://www.peterjxl.com/phone/skip-ad/)
 - [谷歌逐步淘汰 V2 插件，广告拦截不能用了？](https://www.peterjxl.com/Browser/MV3/)
-- [装了 Chrome 不用这个扩展，还不如去用 IE ！](https://www.peterjxl.com/Browser/Tampermonkey/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
