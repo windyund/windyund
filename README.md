@@ -104,11 +104,11 @@
 
 ## Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [扩展推荐篇 - 这些扩展能让你效率翻倍！](https://www.peterjxl.com/Browser/Extensions-recommend/productivity/)
 - [扩展推荐篇 - 让你的浏览器更漂亮！](https://www.peterjxl.com/Browser/Extensions-recommend/beautify/)
 - [扩展推荐篇-前言](https://www.peterjxl.com/Browser/Extensions-recommend/)
 - [2025 年 1 月记](https://www.peterjxl.com/2025/1/)
 - [iPhone 通过 Quantumult X 去广告教程](https://www.peterjxl.com/phone/skip-ad-Quantumult-X/)
-- [实在受不了摇一摇广告了！分享六种去广告方法](https://www.peterjxl.com/phone/skip-ad/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
