@@ -104,11 +104,11 @@
 
 ## Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [互联网冲浪必备脚本](https://www.peterjxl.com/Browser/Tampermonkey-scripts/Internet-Giant/)
 - [效率翻倍！必备油猴脚本推荐](https://www.peterjxl.com/Browser/Tampermonkey-scripts/productivity/)
 - [神级脚本，让你的搜索引擎更强大](https://www.peterjxl.com/Browser/Tampermonkey-scripts/AC-Baidu/)
 - [油猴脚本推荐篇-前言](https://www.peterjxl.com/Browser/Tampermonkey-scripts/intro/)
 - [这些扩展能让你更好地玩转各大平台](https://www.peterjxl.com/Browser/Extensions-recommend/Internet-Giant/)
-- [扩展推荐篇 - 让你的开发效率翻倍！](https://www.peterjxl.com/Browser/Extensions-recommend/develop/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
