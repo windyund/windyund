@@ -104,11 +104,11 @@
 
 ## Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [这应该是「以图搜图」最全教程了，能帮你找到 90% 的图片出处](https://www.peterjxl.com/Browser/Reverse-Image-Search/)
 - [互联网冲浪必备脚本](https://www.peterjxl.com/Browser/Tampermonkey-scripts/Internet-Giant/)
 - [效率翻倍！必备油猴脚本推荐](https://www.peterjxl.com/Browser/Tampermonkey-scripts/productivity/)
 - [神级脚本，让你的搜索引擎更强大](https://www.peterjxl.com/Browser/Tampermonkey-scripts/AC-Baidu/)
 - [油猴脚本推荐篇-前言](https://www.peterjxl.com/Browser/Tampermonkey-scripts/intro/)
-- [这些扩展能让你更好地玩转各大平台](https://www.peterjxl.com/Browser/Extensions-recommend/Internet-Giant/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
