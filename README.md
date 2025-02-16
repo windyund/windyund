@@ -104,11 +104,11 @@
 
 ## Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [以防你不知道书签还能玩出花来](https://www.peterjxl.com/Browser/awesome-bookmark/)
 - [如何自由地复制网页上的内容](https://www.peterjxl.com/Browser/Copying-Lifted/)
 - [这应该是「以图搜图」最全教程了，能帮你找到 90% 的图片出处](https://www.peterjxl.com/Browser/Reverse-Image-Search/)
 - [互联网冲浪必备脚本](https://www.peterjxl.com/Browser/Tampermonkey-scripts/Internet-Giant/)
 - [效率翻倍！必备油猴脚本推荐](https://www.peterjxl.com/Browser/Tampermonkey-scripts/productivity/)
-- [神级脚本，让你的搜索引擎更强大](https://www.peterjxl.com/Browser/Tampermonkey-scripts/AC-Baidu/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
