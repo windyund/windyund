@@ -104,11 +104,11 @@
 
 ## Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [最全面的浏览器教程-完结撒花](https://www.peterjxl.com/Browser/last/)
 - [这个工具可以轻松搞到你的浏览器账户密码！](https://www.peterjxl.com/Browser/HackBrowserdata/)
 - [这款工具能让你的 Chrome 提速 3 倍！](https://www.peterjxl.com/Browser/SpeedFox/)
 - [以防你不知道书签还能玩出花来](https://www.peterjxl.com/Browser/awesome-bookmark/)
 - [如何自由地复制网页上的内容](https://www.peterjxl.com/Browser/Copying-Lifted/)
-- [这应该是「以图搜图」最全教程了，能帮你找到 90% 的图片出处](https://www.peterjxl.com/Browser/Reverse-Image-Search/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
