@@ -104,11 +104,11 @@
 
 ## Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [置身事内：理解中国政府和经济的「一把钥匙」](https://www.peterjxl.com/Reading/notes/Embedded-Power/)
+- [在喧嚣中，照见你我：一个乡镇的政治与人情浮世绘](https://www.peterjxl.com/Reading/notes/The-hustle-of-Town/)
 - [2025 年 2 月记](https://www.peterjxl.com/2025/2/)
 - [最全面的浏览器教程-完结撒花](https://www.peterjxl.com/Browser/last/)
 - [这个工具可以轻松搞到你的浏览器账户密码！](https://www.peterjxl.com/Browser/HackBrowserdata/)
-- [这款工具能让你的 Chrome 提速 3 倍！](https://www.peterjxl.com/Browser/SpeedFox/)
-- [以防你不知道书签还能玩出花来](https://www.peterjxl.com/Browser/awesome-bookmark/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
