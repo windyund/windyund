@@ -104,11 +104,11 @@
 
 ## Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [写了两个实用的知乎油猴脚本（用 AI 两分钟搞定！）](https://www.peterjxl.com/Browser/Tampermonkey-scripts/Two-scripts-for-zhihu-write-by-myself/)
 - [多台电脑切换解决方案：KVM 切换器](https://www.peterjxl.com/Computer/Assembling/KVM/)
 - [大逃港—中国改革开放的催生针，百万群众用脚投票](https://www.peterjxl.com/Reading/notes/The-Great-Escape-to-Hong-Kong/)
 - [置身事内：理解中国政府和经济的「一把钥匙」](https://www.peterjxl.com/Reading/notes/Embedded-Power/)
 - [在喧嚣中，照见你我：一个乡镇的政治与人情浮世绘](https://www.peterjxl.com/Reading/notes/The-hustle-of-Town/)
-- [2025 年 2 月记](https://www.peterjxl.com/2025/2/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
