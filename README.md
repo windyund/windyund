@@ -104,11 +104,11 @@
 
 ## Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [2025 年 3 月记](https://www.peterjxl.com/2025/3/)
 - [潜规则：中国历史中的真实游戏](https://www.peterjxl.com/Reading/notes/Hidden-Rule/)
 - [又一个好用的批量检测单向好友工具！](https://www.peterjxl.com/Wechat/WechatRealFriends/)
 - [写了两个实用的知乎油猴脚本（用 AI 两分钟搞定！）](https://www.peterjxl.com/Browser/Tampermonkey-scripts/Two-scripts-for-zhihu-write-by-myself/)
 - [多台电脑切换解决方案：KVM 切换器](https://www.peterjxl.com/Computer/Assembling/KVM/)
-- [大逃港—中国改革开放的催生针，百万群众用脚投票](https://www.peterjxl.com/Reading/notes/The-Great-Escape-to-Hong-Kong/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
