@@ -104,11 +104,11 @@
 
 ## Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [一个小技巧，让电子书阅读体验翻倍！](https://www.peterjxl.com/Reading/tools/add-a-blank/)
+- [「订婚强奸案」男方拒绝缓刑，上诉书称双方未发生实质性关系，怎样从法律角度解读？](https://www.peterjxl.com/404-content/tuo-qia-ma-ke-zhi-guan/)
 - [世界的另一面，危险从未远离 ——SCP 基金会](https://www.peterjxl.com/Fiction/SCP-Foundation/)
 - [血酬定律：中国历史中的生存游戏](https://www.peterjxl.com/Reading/notes/Blood-Rewards/)
 - [白羽毛运动、烈性弃雄](https://www.peterjxl.com/War/The-White-Feather-Movement/)
-- [2025 年 3 月记](https://www.peterjxl.com/2025/3/)
-- [潜规则：中国历史中的真实游戏](https://www.peterjxl.com/Reading/notes/Hidden-Rule/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
