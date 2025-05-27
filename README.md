@@ -104,11 +104,11 @@
 
 ## Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [《贫穷的本质》很棒，但可能不适合你](https://www.peterjxl.com/Management/Poor-Economics/)
 - [自媒体，路在何方？](https://www.peterjxl.com/WeMedia/Where-is-the-way/)
 - [吐槽一下《僵尸校园》](https://www.peterjxl.com/teleplay/All-of-Us-Are-Dead/)
 - [2025 年 4 月记](https://www.peterjxl.com/2025/4/)
 - [山西大同 “订婚强奸案” 将会给整个社会带来的影响有多严重？ - 知乎](https://www.peterjxl.com/404-content/How-serious-will-the-impact-of-the-forced-marriage-rape-case-in-Datong-Shanxi-be-on-the-whole-society/)
-- [一个小技巧，让电子书阅读体验翻倍！](https://www.peterjxl.com/Reading/tools/add-a-blank/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
