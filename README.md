@@ -104,11 +104,11 @@
 
 ## Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [学点统计学：轻松识破一本正经的胡说八道](https://www.peterjxl.com/Reading/notes/Standard-Deviations/)
-- [2025 年 5 月记](https://www.peterjxl.com/2025/5/)
-- [《贫穷的本质》很棒，但可能不适合你](https://www.peterjxl.com/Management/Poor-Economics/)
-- [自媒体，路在何方？](https://www.peterjxl.com/WeMedia/Where-is-the-way/)
-- [吐槽一下《僵尸校园》](https://www.peterjxl.com/teleplay/All-of-Us-Are-Dead/)
+- [值得一看的社保科普文章](https://www.peterjxl.com/Job/five-insurances-and-one-fund/other-article/)
+- [公积金提取指南](https://www.peterjxl.com/Job/five-insurances-and-one-fund/withdrawal-guide/)
+- [社保的另一面...](https://www.peterjxl.com/Job/five-insurances-and-one-fund/the-other-side/)
+- [六险二金](https://www.peterjxl.com/Job/six-insurances-and-two-funds/)
+- [五险一金概述](https://www.peterjxl.com/Job/five-insurances-and-one-fund/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
