@@ -104,11 +104,11 @@
 
 ## Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Quicker：我唯一愿意称之为神器的工具](https://www.peterjxl.com/Productive-Tool/Quicker/)
 - [值得一看的社保科普文章](https://www.peterjxl.com/Job/five-insurances-and-one-fund/other-article/)
 - [公积金提取指南](https://www.peterjxl.com/Job/five-insurances-and-one-fund/withdrawal-guide/)
 - [社保的另一面...](https://www.peterjxl.com/Job/five-insurances-and-one-fund/the-other-side/)
 - [六险二金](https://www.peterjxl.com/Job/six-insurances-and-two-funds/)
-- [五险一金概述](https://www.peterjxl.com/Job/five-insurances-and-one-fund/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
