@@ -104,11 +104,11 @@
 
 ## Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [1 秒预览各类文件内容，让 Windows 更加丝滑](https://www.peterjxl.com/Productive-Tool/QuickLook/)
 - [这才是「文件夹」该有的样子](https://www.peterjxl.com/Productive-Tool/QTTabBar/)
 - [Quicker：我唯一愿意称之为神器的工具](https://www.peterjxl.com/Productive-Tool/Quicker/)
 - [值得一看的社保科普文章](https://www.peterjxl.com/Job/five-insurances-and-one-fund/other-article/)
 - [公积金提取指南](https://www.peterjxl.com/Job/five-insurances-and-one-fund/withdrawal-guide/)
-- [社保的另一面...](https://www.peterjxl.com/Job/five-insurances-and-one-fund/the-other-side/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
