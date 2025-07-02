@@ -104,11 +104,11 @@
 
 ## Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [血泪教训：电子设备要定期开机](https://www.peterjxl.com/Computer/Regular-Startup/)
 - [Chrome 下载文件时总是提示“已阻止不安全的下载”的解决方案](https://www.peterjxl.com/Browser/Download-Blocked-By-Chrome/)
 - [2025 年 6 月记](https://www.peterjxl.com/2025/6/)
 - [Listary：革命性的搜索和应用启动软件](https://www.peterjxl.com/Productive-Tool/Listary/)
 - [1 秒预览各类文件内容，让 Windows 更加丝滑](https://www.peterjxl.com/Productive-Tool/QuickLook/)
-- [这才是「文件夹」该有的样子](https://www.peterjxl.com/Productive-Tool/QTTabBar/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
