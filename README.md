@@ -104,11 +104,11 @@
 
 ## Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [月薪 3000 就不是纳税人了？大错特错](https://www.peterjxl.com/Economy/revenue/taxpayer/)
+- [微信提现免手续费小技巧](https://www.peterjxl.com/Wechat/withdraw/)
+- [孙宇晨：从三本到北大再到币圈风云人物](https://www.peterjxl.com/Internet/Justin/)
 - [语雀文档一键下载至本地教程](https://www.peterjxl.com/yuque/yuque-dl/)
 - [要成功，就不要低估环境对你的影响](https://www.peterjxl.com/self-improvement/environment/)
-- [血泪教训：电子设备要定期开机](https://www.peterjxl.com/Computer/Regular-Startup/)
-- [Chrome 下载文件时总是提示“已阻止不安全的下载”的解决方案](https://www.peterjxl.com/Browser/Download-Blocked-By-Chrome/)
-- [2025 年 6 月记](https://www.peterjxl.com/2025/6/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
