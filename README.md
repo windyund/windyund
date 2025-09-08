@@ -104,11 +104,11 @@
 
 ## Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [2025 年 8 月记](https://www.peterjxl.com/2025/8/)
 - [【三国杀OL】拒绝赛博徭役，聊聊如何高效刷亲密度](https://www.peterjxl.com/Sanguosha/tavern/)
 - [2025 年 7 月记](https://www.peterjxl.com/2025/7/)
 - [月薪 3000 就不是纳税人了？大错特错](https://www.peterjxl.com/Economy/revenue/taxpayer/)
 - [微信提现免手续费小技巧](https://www.peterjxl.com/Wechat/withdraw/)
-- [孙宇晨：从三本到北大再到币圈风云人物](https://www.peterjxl.com/Internet/Justin/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
