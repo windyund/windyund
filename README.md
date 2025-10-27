@@ -105,10 +105,10 @@
 ## Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [用 AI 批量优化思源笔记排版](https://www.peterjxl.com/notebook/Siyuan-autoSpace/)
+- [新闻合订本 2025-09](https://www.peterjxl.com/News/2025-09/)
 - [2025 年 9 月记](https://www.peterjxl.com/2025/9/)
 - [2025 年 8 月记](https://www.peterjxl.com/2025/8/)
-- [【三国杀OL】拒绝赛博徭役，聊聊如何高效刷亲密度](https://www.peterjxl.com/Sanguosha/tavern/)
-- [2025 年 7 月记](https://www.peterjxl.com/2025/7/)
+- [新闻合订本 2025-08](https://www.peterjxl.com/News/2025-08/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
