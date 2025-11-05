@@ -104,11 +104,11 @@
 
 ## Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [新闻合订本 2025-10](https://www.peterjxl.com/News/2025-10/)
+- [2025 年 10 月记](https://www.peterjxl.com/2025/10/)
 - [用 AI 批量优化思源笔记排版](https://www.peterjxl.com/notebook/Siyuan-autoSpace/)
-- [新闻合订本 2025-09](https://www.peterjxl.com/News/2025-09/)
 - [2025 年 9 月记](https://www.peterjxl.com/2025/9/)
-- [2025 年 8 月记](https://www.peterjxl.com/2025/8/)
-- [新闻合订本 2025-08](https://www.peterjxl.com/News/2025-08/)
+- [新闻合订本 2025-09](https://www.peterjxl.com/News/2025-09/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
