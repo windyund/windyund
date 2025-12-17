@@ -104,11 +104,11 @@
 
 ## Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [个人屏蔽骚扰电话、短信总结](https://www.peterjxl.com/Phone/Block-harassing-calls/)
 - [2025 年 11 月记](https://www.peterjxl.com/2025/11/)
 - [新闻合订本 2025-11](https://www.peterjxl.com/News/2025-11/)
 - [新闻合订本 2025-10](https://www.peterjxl.com/News/2025-10/)
 - [2025 年 10 月记](https://www.peterjxl.com/2025/10/)
-- [用 AI 批量优化思源笔记排版](https://www.peterjxl.com/notebook/Siyuan-autoSpace/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
