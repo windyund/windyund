@@ -104,11 +104,11 @@
 
 ## Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [通过云函数部署 Twikoo](https://www.peterjxl.com/Blog/comment-cloud/)
 - [我的博客变迁：古典派 → 云服务](https://www.peterjxl.com/Blog/Cloud/)
 - [2026 年 1 月记](https://www.peterjxl.com/2026/1/)
 - [新闻合订本 2026-01](https://www.peterjxl.com/News/2026-01/)
 - [2025 年度总结](https://www.peterjxl.com/2025/summary/)
-- [2025 年 12 月记](https://www.peterjxl.com/2025/12/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
