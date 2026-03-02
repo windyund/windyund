@@ -104,11 +104,11 @@
 
 ## Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [2026 年 2 月记](https://www.peterjxl.com/2026/2/)
+- [新闻合订本 2026-02](https://www.peterjxl.com/News/2026-02/)
 - [建了个人主页](https://www.peterjxl.com/Blog/homepage/)
 - [通过云函数部署 Twikoo](https://www.peterjxl.com/Blog/comment-cloud/)
 - [我的博客变迁：古典派 → 云服务](https://www.peterjxl.com/Blog/Cloud/)
-- [2026 年 1 月记](https://www.peterjxl.com/2026/1/)
-- [新闻合订本 2026-01](https://www.peterjxl.com/News/2026-01/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
