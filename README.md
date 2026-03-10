@@ -104,11 +104,11 @@
 
 ## Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [【三国杀 OL 武将攻略】神荀采](https://www.peterjxl.com/Sanguosha/Shen-Xun-Cai/)
 - [2026 年 2 月记](https://www.peterjxl.com/2026/2/)
 - [博友圈](https://www.peterjxl.com/Blog/blog-circle/)
 - [新闻合订本 2026-02](https://www.peterjxl.com/News/2026-02/)
 - [建了个人主页](https://www.peterjxl.com/Blog/homepage/)
-- [通过云函数部署 Twikoo](https://www.peterjxl.com/Blog/comment-cloud/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
