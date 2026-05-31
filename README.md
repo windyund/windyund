@@ -104,11 +104,11 @@
 
 ## Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [2026 年 5 月记](https://www.peterjxl.com/2026/5/)
+- [新闻合订本 2026-05](https://www.peterjxl.com/News/2026-05/)
 - [2026 年 4 月记](https://www.peterjxl.com/2026/4/)
 - [新闻合订本 2026-04](https://www.peterjxl.com/News/2026-04/)
 - [2026 年 3 月记](https://www.peterjxl.com/2026/3/)
-- [新闻合订本 2026-03](https://www.peterjxl.com/News/2026-03/)
-- [【三国杀 OL 武将攻略】族荀采](https://www.peterjxl.com/Sanguosha/Shen-Xun-Cai/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
