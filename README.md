@@ -104,11 +104,11 @@
 
 ## Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [新闻合订本 2026-06](https://www.peterjxl.com/News/2026-06)
+- [2026 年 6 月记](https://www.peterjxl.com/2026/6)
 - [Apple Watch 快速开关常亮功能](https://www.peterjxl.com/apple/watch/always-on/)
 - [2026 年 5 月记](https://www.peterjxl.com/2026/5)
 - [新闻合订本 2026-05](https://www.peterjxl.com/News/2026-05)
-- [2026 年 4 月记](https://www.peterjxl.com/2026/4)
-- [新闻合订本 2026-04](https://www.peterjxl.com/News/2026-04)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
