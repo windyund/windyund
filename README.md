@@ -104,7 +104,7 @@
 
 ## Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [新闻合订本 2026-06](https://www.peterjxl.com/News/2026-06)
+- [《虹猫蓝兔七侠传》小游戏全攻略（原灵动喷射）](https://www.peterjxl.com/stg/hongmao/)
 - [2026 年 6 月记](https://www.peterjxl.com/2026/6)
 - [Apple Watch 快速开关常亮功能](https://www.peterjxl.com/apple/watch/always-on/)
 - [2026 年 5 月记](https://www.peterjxl.com/2026/5)
