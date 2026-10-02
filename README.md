@@ -104,11 +104,11 @@
 
 ## Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [2026 年 9 月记](https://www.peterjxl.com/2026/9)
+- [新闻合订本 2026-09](https://www.peterjxl.com/News/2026-09)
 - [2026 年 8 月记](https://www.peterjxl.com/2026/8)
 - [新闻合订本 2026-08](https://www.peterjxl.com/News/2026-08)
 - [2026 年 7 月记](https://www.peterjxl.com/2026/7)
-- [新闻合订本 2026-07](https://www.peterjxl.com/News/2026-07)
-- [【灵动喷射】小游戏全攻略](https://www.peterjxl.com/stg/hongmao/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
